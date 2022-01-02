@@ -1,9 +1,8 @@
 /*
 
-Cleaning Data in SQL Queries
+This project is about cleaning dataset usign SQL queries
 
 */
-
 
 Select *
 From PortfolioProject.dbo.NashvilleHousing
